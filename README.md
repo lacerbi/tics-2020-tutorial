@@ -10,3 +10,8 @@ This tutorial is part the *Trends in Computational Neuroscience* graduate course
 - Then open the Jupyter notebook `tics-intro-model-fitting-notebook.ipynb` (you should have *Jupyter notebook* installed as part of Anaconda).
 - Slides of the lectures will be uploaded after the class, and instructions for the second mini-project related to this part of the course will be communicated after the second lecture.
 - For any additional question, please email the course instructor at luigi.acerbi@unige.ch.
+
+## License
+
+Code and scripts in this repository are released under the terms of the [MIT License](https://github.com/lacerbi/tics-2020-tutorial/blob/master/LICENSE).
+
