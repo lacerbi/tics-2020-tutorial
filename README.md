@@ -11,8 +11,8 @@ This tutorial is part the *Trends in Computational Neuroscience* graduate course
 
 ## Additional lecture materials
 
-- Slides of the lectures are available [here](https://github.com/lacerbi/tics-2020-tutorial/blob/master/TICS-Mini-project-2-instructions.pdf).
-- Instructions for the second mini-project related to this part of the course are [here](https://github.com/lacerbi/tics-2020-tutorial/blob/master/Acerbi-TICS-2020-slides.pdf).
+- Slides of the lectures are available [here](https://github.com/lacerbi/tics-2020-tutorial/blob/master/Acerbi-TICS-2020-slides.pdf).
+- Instructions for the second mini-project related to this part of the course are [here](https://github.com/lacerbi/tics-2020-tutorial/blob/master/TICS-Mini-project-2-instructions.pdf).
 
 For any additional question, please email the course instructor at luigi.acerbi@unige.ch.
 
